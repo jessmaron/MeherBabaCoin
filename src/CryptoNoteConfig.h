@@ -128,6 +128,5 @@ const std::initializer_list<CheckpointData> CHECKPOINTS = {
 };
 } // CryptoNote
 
-MeherBabaCoind --print-genesis-tx
 
 #define ALLOW_DEBUG_COMMANDS
